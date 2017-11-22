@@ -1,0 +1,2416 @@
+server.c is queried
+server.c sent to the client
+Insecure file inquiry
+Insecure file inquiry
+Successfully terminating
+server.c is queried
+server.c sent to the client
+server.c is queried
+server.c sent to the client
+server.c is queried
+server.c sent to the client
+server.c is queried
+server.c sent to the client
+server.c is queried
+server.c sent to the client
+server.c is queried
+server.c sent to the client
+server.c is queried
+server.c sent to the client
+Successfully terminating
+page.html is queried
+page.html sent to the client
+Connection is not available now. Please, try again later
+page_files/yui_combo.css is queried
+page_files/yui_combo.css sent to the client
+page_files/yui_combo_002.css is queried
+page_files/yui_combo_002.css sent to the client
+page_files/all.css is queried
+page_files/all.css sent to the client
+page_files/yui_combo_005.js is queried
+page_files/yui_combo_005.js sent to the client
+page_files/yui_combo_003.js is queried
+page_files/yui_combo_003.js sent to the client
+page_files/yui_combo_004.js is queried
+page_files/yui_combo_004.js sent to the client
+page_files/yui_combo_002.js is queried
+page_files/yui_combo_002.js sent to the client
+page_files/yui_combo.js is queried
+page_files/yui_combo.js sent to the client
+page_files/first.js is queried
+page_files/first.js sent to the client
+page_files/jquery-private.js is queried
+page_files/jquery-private.js sent to the client
+page_files/jquery-3.js is queried
+page_files/jquery-3.js sent to the client
+page_files/yui_combo_006.js is queried
+page_files/yui_combo_006.js sent to the client
+page_files/javascript-static.js is queried
+page_files/javascript-static.js sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page_files/require.js is queried
+page_files/require.js sent to the client
+page_files/footer.js is queried
+page_files/footer.js sent to the client
+page_files/switch_minus.svg is queried
+page_files/switch_minus.svg sent to the client
+page_files/switch_plus.svg is queried
+page_files/switch_plus.svg sent to the client
+page_files/moodlelogo.png is queried
+page_files/moodlelogo.png sent to the client
+page_files/collect.png is queried
+page_files/collect.png sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/switch_minus.svg is queried
+page_files/switch_minus.svg sent to the client
+page_files/switch_plus.svg is queried
+page_files/switch_plus.svg sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page_files/moodlelogo.png is queried
+page_files/moodlelogo.png sent to the client
+page_files/collect.png is queried
+page_files/collect.png sent to the client
+page_files/block_to_dock.svg is queried
+page_files/block_to_dock.svg sent to the client
+Insecure file inquiry
+Insecure file inquiry
+Successfully terminating
+Insecure file inquiry
+page.html is queried
+page.html sent to the client
+page_files/yui_combo.css is queried
+page_files/yui_combo.css sent to the client
+page_files/yui_combo_003.js is queried
+page_files/yui_combo_003.js sent to the client
+page_files/yui_combo_002.css is queried
+page_files/yui_combo_002.css sent to the client
+page_files/yui_combo_004.js is queried
+page_files/yui_combo_004.js sent to the client
+page_files/yui_combo_002.js is queried
+page_files/yui_combo_002.js sent to the client
+page_files/yui_combo.js is queried
+page_files/yui_combo.js sent to the client
+page_files/all.css is queried
+page_files/all.css sent to the client
+page_files/first.js is queried
+page_files/first.js sent to the client
+page_files/jquery-private.js is queried
+page_files/jquery-private.js sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/switch_minus.svg is queried
+page_files/switch_minus.svg sent to the client
+page_files/switch_plus.svg is queried
+page_files/switch_plus.svg sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page_files/moodlelogo.png is queried
+page_files/moodlelogo.png sent to the client
+page_files/collect.png is queried
+page_files/collect.png sent to the client
+page_files/require.js is queried
+page_files/require.js sent to the client
+page_files/footer.js is queried
+page_files/footer.js sent to the client
+page_files/yui_combo_003.css is queried
+page_files/yui_combo_003.css sent to the client
+page_files/yui_combo_005.js is queried
+page_files/yui_combo_005.js sent to the client
+page_files/jquery-3.js is queried
+page_files/jquery-3.js sent to the client
+page_files/yui_combo_006.js is queried
+page_files/yui_combo_006.js sent to the client
+page_files/javascript-static.js is queried
+page_files/javascript-static.js sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/switch_minus.svg is queried
+page_files/switch_minus.svg sent to the client
+page_files/switch_plus.svg is queried
+page_files/switch_plus.svg sent to the client
+page_files/block_to_dock.svg is queried
+page_files/block_to_dock.svg sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page_files/moodlelogo.png is queried
+page_files/moodlelogo.png sent to the client
+page_files/collect.png is queried
+page_files/collect.png sent to the client
+page.html is queried
+page.html sent to the client
+page_files/yui_combo_003.css is queried
+page_files/yui_combo_003.css sent to the client
+page_files/yui_combo_005.js is queried
+page_files/yui_combo_005.js sent to the client
+page_files/yui_combo.css is queried
+page_files/yui_combo.css sent to the client
+page_files/yui_combo_003.js is queried
+page_files/yui_combo_003.js sent to the client
+page_files/yui_combo_002.css is queried
+page_files/yui_combo_002.css sent to the client
+page_files/yui_combo_004.js is queried
+page_files/yui_combo_004.js sent to the client
+page_files/yui_combo_002.js is queried
+page_files/yui_combo_002.js sent to the client
+page_files/yui_combo.js is queried
+page_files/yui_combo.js sent to the client
+page_files/all.css is queried
+page_files/all.css sent to the client
+page_files/first.js is queried
+page_files/first.js sent to the client
+page_files/jquery-private.js is queried
+page_files/jquery-private.js sent to the client
+page_files/jquery-3.js is queried
+page_files/jquery-3.js sent to the client
+page_files/yui_combo_006.js is queried
+page_files/yui_combo_006.js sent to the client
+page_files/javascript-static.js is queried
+page_files/javascript-static.js sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/switch_minus.svg is queried
+page_files/switch_minus.svg sent to the client
+page_files/switch_plus.svg is queried
+page_files/switch_plus.svg sent to the client
+page_files/require.js is queried
+page_files/require.js sent to the client
+page_files/footer.js is queried
+page_files/footer.js sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page_files/moodlelogo.png is queried
+page_files/moodlelogo.png sent to the client
+page_files/collect.png is queried
+page_files/collect.png sent to the client
+page.html is queried
+page.html sent to the client
+page_files/yui_combo_003.css is queried
+page_files/yui_combo_003.css sent to the client
+page_files/yui_combo_005.js is queried
+page_files/yui_combo_005.js sent to the client
+page_files/yui_combo.css is queried
+page_files/yui_combo.css sent to the client
+page_files/yui_combo_003.js is queried
+page_files/yui_combo_003.js sent to the client
+page_files/yui_combo_002.css is queried
+page_files/yui_combo_002.css sent to the client
+page_files/yui_combo_004.js is queried
+page_files/yui_combo_004.js sent to the client
+page_files/yui_combo_002.js is queried
+page_files/yui_combo_002.js sent to the client
+page_files/yui_combo.js is queried
+page_files/yui_combo.js sent to the client
+page_files/all.css is queried
+page_files/all.css sent to the client
+page_files/first.js is queried
+page_files/first.js sent to the client
+page_files/jquery-private.js is queried
+page_files/jquery-private.js sent to the client
+page_files/jquery-3.js is queried
+page_files/jquery-3.js sent to the client
+page_files/yui_combo_006.js is queried
+page_files/yui_combo_006.js sent to the client
+page_files/javascript-static.js is queried
+page_files/javascript-static.js sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/switch_minus.svg is queried
+page_files/switch_minus.svg sent to the client
+page_files/switch_plus.svg is queried
+page_files/switch_plus.svg sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page_files/moodlelogo.png is queried
+page_files/moodlelogo.png sent to the client
+page_files/collect.png is queried
+page_files/collect.png sent to the client
+page_files/require.js is queried
+page_files/require.js sent to the client
+page_files/footer.js is queried
+page_files/footer.js sent to the client
+page.html is queried
+page.html sent to the client
+page_files/yui_combo_003.css is queried
+page_files/yui_combo_003.css sent to the client
+page_files/yui_combo_005.js is queried
+page_files/yui_combo_005.js sent to the client
+page_files/yui_combo.css is queried
+page_files/yui_combo.css sent to the client
+page_files/yui_combo_003.js is queried
+page_files/yui_combo_003.js sent to the client
+page_files/yui_combo_002.css is queried
+page_files/yui_combo_002.css sent to the client
+page_files/yui_combo_004.js is queried
+page_files/yui_combo_004.js sent to the client
+page_files/yui_combo_002.js is queried
+page_files/yui_combo_002.js sent to the client
+page_files/yui_combo.js is queried
+page_files/yui_combo.js sent to the client
+page_files/all.css is queried
+page_files/all.css sent to the client
+page_files/first.js is queried
+page_files/first.js sent to the client
+page_files/jquery-private.js is queried
+page_files/jquery-private.js sent to the client
+page_files/jquery-3.js is queried
+page_files/jquery-3.js sent to the client
+page_files/yui_combo_006.js is queried
+page_files/yui_combo_006.js sent to the client
+page_files/javascript-static.js is queried
+page_files/javascript-static.js sent to the client
+page_files/require.js is queried
+page_files/require.js sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/footer.js is queried
+page_files/footer.js sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page.html is queried
+page.html sent to the client
+page.html is queried
+page.html sent to the client
+page_files/yui_combo_003.css is queried
+page_files/yui_combo_003.css sent to the client
+page_files/yui_combo_005.js is queried
+page_files/yui_combo_005.js sent to the client
+page_files/yui_combo.css is queried
+page_files/yui_combo.css sent to the client
+page_files/yui_combo_003.js is queried
+page_files/yui_combo_003.js sent to the client
+page_files/yui_combo_002.css is queried
+page_files/yui_combo_002.css sent to the client
+page_files/yui_combo_004.js is queried
+page_files/yui_combo_004.js sent to the client
+page_files/yui_combo_002.js is queried
+page_files/yui_combo_002.js sent to the client
+page_files/yui_combo.js is queried
+page_files/yui_combo.js sent to the client
+page_files/all.css is queried
+page_files/all.css sent to the client
+page_files/first.js is queried
+page_files/first.js sent to the client
+page_files/jquery-private.js is queried
+page_files/jquery-private.js sent to the client
+page_files/jquery-3.js is queried
+page_files/jquery-3.js sent to the client
+page_files/yui_combo_006.js is queried
+page_files/yui_combo_006.js sent to the client
+page_files/javascript-static.js is queried
+page_files/javascript-static.js sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/switch_minus.svg is queried
+page_files/switch_minus.svg sent to the client
+page_files/switch_plus.svg is queried
+page_files/switch_plus.svg sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page_files/moodlelogo.png is queried
+page_files/moodlelogo.png sent to the client
+page_files/collect.png is queried
+page_files/collect.png sent to the client
+page_files/require.js is queried
+page_files/require.js sent to the client
+page_files/footer.js is queried
+page_files/footer.js sent to the client
+page.html is queried
+page.html sent to the client
+page_files/yui_combo_003.css is queried
+page_files/yui_combo_003.css sent to the client
+page_files/yui_combo_005.js is queried
+page_files/yui_combo_005.js sent to the client
+page_files/yui_combo.css is queried
+page_files/yui_combo.css sent to the client
+page_files/yui_combo_003.js is queried
+page_files/yui_combo_003.js sent to the client
+page_files/yui_combo_002.css is queried
+page_files/yui_combo_002.css sent to the client
+page_files/yui_combo_004.js is queried
+page_files/yui_combo_004.js sent to the client
+page_files/yui_combo_002.js is queried
+page_files/yui_combo_002.js sent to the client
+page_files/yui_combo.js is queried
+page_files/yui_combo.js sent to the client
+page_files/all.css is queried
+page_files/all.css sent to the client
+page_files/first.js is queried
+page_files/first.js sent to the client
+page_files/jquery-private.js is queried
+page_files/jquery-private.js sent to the client
+page_files/jquery-3.js is queried
+page_files/jquery-3.js sent to the client
+page_files/yui_combo_006.js is queried
+page_files/yui_combo_006.js sent to the client
+page_files/javascript-static.js is queried
+page_files/javascript-static.js sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/switch_minus.svg is queried
+page_files/switch_minus.svg sent to the client
+page_files/switch_plus.svg is queried
+page_files/switch_plus.svg sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page_files/moodlelogo.png is queried
+page_files/moodlelogo.png sent to the client
+page_files/collect.png is queried
+page_files/collect.png sent to the client
+page_files/require.js is queried
+page_files/require.js sent to the client
+page_files/footer.js is queried
+page_files/footer.js sent to the client
+page.html is queried
+page.html sent to the client
+page.html is queried
+page.html sent to the client
+page_files/yui_combo_003.css is queried
+page_files/yui_combo_003.css sent to the client
+page_files/yui_combo_005.js is queried
+page_files/yui_combo_005.js sent to the client
+page_files/yui_combo.css is queried
+page_files/yui_combo.css sent to the client
+page_files/yui_combo_003.js is queried
+page_files/yui_combo_003.js sent to the client
+page_files/yui_combo_002.css is queried
+page_files/yui_combo_002.css sent to the client
+page_files/yui_combo_004.js is queried
+page_files/yui_combo_004.js sent to the client
+page_files/yui_combo_002.js is queried
+page_files/yui_combo_002.js sent to the client
+page_files/yui_combo.js is queried
+page_files/yui_combo.js sent to the client
+page_files/all.css is queried
+page_files/all.css sent to the client
+page_files/first.js is queried
+page_files/first.js sent to the client
+page_files/jquery-private.js is queried
+page_files/jquery-private.js sent to the client
+page_files/jquery-3.js is queried
+page_files/jquery-3.js sent to the client
+page_files/yui_combo_006.js is queried
+page_files/yui_combo_006.js sent to the client
+page_files/javascript-static.js is queried
+page_files/javascript-static.js sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/switch_minus.svg is queried
+page_files/switch_minus.svg sent to the client
+page_files/switch_plus.svg is queried
+page_files/switch_plus.svg sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page_files/moodlelogo.png is queried
+page_files/moodlelogo.png sent to the client
+page_files/collect.png is queried
+page_files/collect.png sent to the client
+page_files/require.js is queried
+page_files/require.js sent to the client
+page_files/footer.js is queried
+page_files/footer.js sent to the client
+page.html is queried
+page.html sent to the client
+page_files/yui_combo_003.css is queried
+page_files/yui_combo_003.css sent to the client
+page_files/yui_combo_005.js is queried
+page_files/yui_combo_005.js sent to the client
+page_files/yui_combo.css is queried
+page_files/yui_combo.css sent to the client
+page_files/yui_combo_003.js is queried
+page_files/yui_combo_003.js sent to the client
+page_files/yui_combo_002.css is queried
+page_files/yui_combo_002.css sent to the client
+page_files/yui_combo_004.js is queried
+page_files/yui_combo_004.js sent to the client
+page_files/yui_combo_002.js is queried
+page_files/yui_combo_002.js sent to the client
+page_files/yui_combo.js is queried
+page_files/yui_combo.js sent to the client
+page_files/all.css is queried
+page_files/all.css sent to the client
+page_files/first.js is queried
+page_files/first.js sent to the client
+page_files/jquery-private.js is queried
+page_files/jquery-private.js sent to the client
+page_files/jquery-3.js is queried
+page_files/jquery-3.js sent to the client
+page_files/yui_combo_006.js is queried
+page_files/yui_combo_006.js sent to the client
+page_files/javascript-static.js is queried
+page_files/javascript-static.js sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/switch_minus.svg is queried
+page_files/switch_minus.svg sent to the client
+page_files/switch_plus.svg is queried
+page_files/switch_plus.svg sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page_files/moodlelogo.png is queried
+page_files/moodlelogo.png sent to the client
+page_files/collect.png is queried
+page_files/collect.png sent to the client
+page_files/require.js is queried
+page_files/require.js sent to the client
+page_files/footer.js is queried
+page_files/footer.js sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/switch_minus.svg is queried
+page_files/switch_minus.svg sent to the client
+page_files/switch_plus.svg is queried
+page_files/switch_plus.svg sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page_files/block_to_dock.svg is queried
+page_files/block_to_dock.svg sent to the client
+page_files/moodlelogo.png is queried
+page_files/moodlelogo.png sent to the client
+page_files/collect.png is queried
+page_files/collect.png sent to the client
+Successfully terminating
+page.html is queried
+page.html sent to the client
+page_files/yui_combo_003.css is queried
+page_files/yui_combo_003.css sent to the client
+page_files/yui_combo_005.js is queried
+page_files/yui_combo_005.js sent to the client
+page_files/yui_combo.css is queried
+page_files/yui_combo.css sent to the client
+Connection is not available now. Please, try again later
+Connection is not available now. Please, try again later
+Connection is not available now. Please, try again later
+Connection is not available now. Please, try again later
+Connection is not available now. Please, try again later
+Connection is not available now. Please, try again later
+Connection is not available now. Please, try again later
+Connection is not available now. Please, try again later
+Connection is not available now. Please, try again later
+Connection is not available now. Please, try again later
+Connection is not available now. Please, try again later
+Connection is not available now. Please, try again later
+Connection is not available now. Please, try again later
+Connection is not available now. Please, try again later
+Connection is not available now. Please, try again later
+Connection is not available now. Please, try again later
+Connection is not available now. Please, try again later
+Connection is not available now. Please, try again later
+Connection is not available now. Please, try again later
+Connection is not available now. Please, try again later
+Connection is not available now. Please, try again later
+Connection is not available now. Please, try again later
+Connection is not available now. Please, try again later
+Connection is not available now. Please, try again later
+Connection is not available now. Please, try again later
+Connection is not available now. Please, try again later
+Connection is not available now. Please, try again later
+Connection is not available now. Please, try again later
+Connection is not available now. Please, try again later
+Connection is not available now. Please, try again later
+Connection is not available now. Please, try again later
+Connection is not available now. Please, try again later
+Connection is not available now. Please, try again later
+Connection is not available now. Please, try again later
+Successfully terminating
+page.html is queried
+page.html sent to the client
+page_files/yui_combo_003.css is queried
+page_files/yui_combo_003.css sent to the client
+page_files/yui_combo_005.js is queried
+page_files/yui_combo_005.js sent to the client
+page_files/yui_combo.css is queried
+page_files/yui_combo.css sent to the client
+page_files/yui_combo_003.js is queried
+page_files/yui_combo_003.js sent to the client
+page_files/yui_combo_002.css is queried
+page_files/yui_combo_002.css sent to the client
+page_files/yui_combo_004.js is queried
+page_files/yui_combo_004.js sent to the client
+page_files/yui_combo_002.js is queried
+page_files/yui_combo_002.js sent to the client
+page_files/yui_combo.js is queried
+page_files/yui_combo.js sent to the client
+page_files/all.css is queried
+page_files/all.css sent to the client
+page_files/first.js is queried
+page_files/first.js sent to the client
+page_files/jquery-private.js is queried
+page_files/jquery-private.js sent to the client
+page_files/jquery-3.js is queried
+page_files/jquery-3.js sent to the client
+page_files/yui_combo_006.js is queried
+page_files/yui_combo_006.js sent to the client
+page_files/javascript-static.js is queried
+page_files/javascript-static.js sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/switch_minus.svg is queried
+page_files/switch_minus.svg sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page_files/switch_plus.svg is queried
+page_files/switch_plus.svg sent to the client
+page_files/require.js is queried
+page_files/require.js sent to the client
+page_files/collect.png is queried
+page_files/collect.png sent to the client
+page_files/moodlelogo.png is queried
+page_files/moodlelogo.png sent to the client
+page_files/footer.js is queried
+page_files/footer.js sent to the client
+page_files/block_to_dock.svg is queried
+page_files/block_to_dock.svg sent to the client
+Successfully terminating
+page.html is queried
+page.html sent to the client
+page_files/yui_combo_003.css is queried
+page_files/yui_combo_003.css sent to the client
+page_files/yui_combo_005.js is queried
+page_files/yui_combo_005.js sent to the client
+page_files/yui_combo.css is queried
+page_files/yui_combo.css sent to the client
+page_files/yui_combo_003.js is queried
+page_files/yui_combo_003.js sent to the client
+page_files/yui_combo_002.css is queried
+page_files/yui_combo_002.css sent to the client
+page_files/yui_combo_004.js is queried
+page_files/yui_combo_004.js sent to the client
+page_files/yui_combo_002.js is queried
+page_files/yui_combo_002.js sent to the client
+page_files/yui_combo.js is queried
+page_files/yui_combo.js sent to the client
+page_files/all.css is queried
+page_files/all.css sent to the client
+page_files/first.js is queried
+page_files/first.js sent to the client
+page_files/jquery-private.js is queried
+page_files/jquery-private.js sent to the client
+page_files/jquery-3.js is queried
+page_files/jquery-3.js sent to the client
+page_files/yui_combo_006.js is queried
+page_files/yui_combo_006.js sent to the client
+page_files/javascript-static.js is queried
+page_files/javascript-static.js sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/require.js is queried
+page_files/require.js sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/footer.js is queried
+page_files/footer.js sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/switch_minus.svg is queried
+page_files/switch_minus.svg sent to the client
+page_files/switch_plus.svg is queried
+page_files/switch_plus.svg sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page_files/moodlelogo.png is queried
+page_files/moodlelogo.png sent to the client
+page_files/collect.png is queried
+page_files/collect.png sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/switch_minus.svg is queried
+page_files/switch_minus.svg sent to the client
+page_files/switch_plus.svg is queried
+page_files/switch_plus.svg sent to the client
+page_files/block_to_dock.svg is queried
+page_files/block_to_dock.svg sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page_files/moodlelogo.png is queried
+page_files/moodlelogo.png sent to the client
+page_files/collect.png is queried
+page_files/collect.png sent to the client
+Successfully terminating
+page.html is queried
+page.html sent to the client
+page_files/yui_combo_003.css is queried
+page_files/yui_combo_003.css sent to the client
+page_files/yui_combo_005.js is queried
+page_files/yui_combo_005.js sent to the client
+page_files/yui_combo.css is queried
+page_files/yui_combo.css sent to the client
+page_files/yui_combo_003.js is queried
+page_files/yui_combo_003.js sent to the client
+page_files/yui_combo_002.css is queried
+page_files/yui_combo_002.css sent to the client
+page_files/yui_combo_004.js is queried
+page_files/yui_combo_004.js sent to the client
+page_files/yui_combo_002.js is queried
+page_files/yui_combo_002.js sent to the client
+page_files/yui_combo.js is queried
+page_files/yui_combo.js sent to the client
+page_files/all.css is queried
+page_files/all.css sent to the client
+page_files/first.js is queried
+page_files/first.js sent to the client
+page_files/jquery-private.js is queried
+page_files/jquery-private.js sent to the client
+page_files/jquery-3.js is queried
+page_files/jquery-3.js sent to the client
+page_files/yui_combo_006.js is queried
+page_files/yui_combo_006.js sent to the client
+page_files/javascript-static.js is queried
+page_files/javascript-static.js sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/switch_minus.svg is queried
+page_files/switch_minus.svg sent to the client
+page_files/switch_plus.svg is queried
+page_files/switch_plus.svg sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page_files/footer.js is queried
+page_files/footer.js sent to the client
+page_files/require.js is queried
+page_files/require.js sent to the client
+page_files/collect.png is queried
+page_files/collect.png sent to the client
+page_files/moodlelogo.png is queried
+page_files/moodlelogo.png sent to the client
+page_files/block_to_dock.svg is queried
+page_files/block_to_dock.svg sent to the client
+Successfully terminating
+Insecure file inquiry
+Insecure file inquiry
+Successfully terminating
+Insecure file inquiry
+page.html is queried
+page.html sent to the client
+page_files/yui_combo_003.css is queried
+page_files/yui_combo_003.css sent to the client
+page_files/yui_combo_005.js is queried
+page_files/yui_combo_005.js sent to the client
+page_files/yui_combo.css is queried
+page_files/yui_combo.css sent to the client
+page_files/yui_combo_003.js is queried
+page_files/yui_combo_003.js sent to the client
+page_files/yui_combo_002.css is queried
+page_files/yui_combo_002.css sent to the client
+page_files/yui_combo_004.js is queried
+page_files/yui_combo_004.js sent to the client
+page_files/yui_combo_002.js is queried
+page_files/yui_combo_002.js sent to the client
+page_files/yui_combo.js is queried
+page_files/yui_combo.js sent to the client
+page_files/all.css is queried
+page_files/all.css sent to the client
+page_files/first.js is queried
+page_files/first.js sent to the client
+page_files/jquery-private.js is queried
+page_files/jquery-private.js sent to the client
+page_files/jquery-3.js is queried
+page_files/jquery-3.js sent to the client
+page_files/yui_combo_006.js is queried
+page_files/yui_combo_006.js sent to the client
+page_files/javascript-static.js is queried
+page_files/javascript-static.js sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/switch_minus.svg is queried
+page_files/switch_minus.svg sent to the client
+page_files/switch_plus.svg is queried
+page_files/switch_plus.svg sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page_files/collect.png is queried
+page_files/collect.png sent to the client
+page_files/moodlelogo.png is queried
+page_files/moodlelogo.png sent to the client
+page_files/require.js is queried
+page_files/require.js sent to the client
+page_files/footer.js is queried
+page_files/footer.js sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/switch_minus.svg is queried
+page_files/switch_minus.svg sent to the client
+page_files/switch_plus.svg is queried
+page_files/switch_plus.svg sent to the client
+page_files/block_to_dock.svg is queried
+page_files/block_to_dock.svg sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page_files/collect.png is queried
+page_files/collect.png sent to the client
+Insecure file inquiry
+Insecure file inquiry
+server.c is queried
+server.c sent to the client
+Insecure file inquiry
+Insecure file inquiry
+Insecure file inquiry
+Successfully terminating
+server.c is queried
+server.c sent to the client
+page.html is queried
+page.html sent to the client
+page_files/yui_combo_003.css is queried
+page_files/yui_combo_003.css sent to the client
+page_files/yui_combo_005.js is queried
+page_files/yui_combo_005.js sent to the client
+page_files/yui_combo.css is queried
+page_files/yui_combo.css sent to the client
+page_files/yui_combo_003.js is queried
+page_files/yui_combo_003.js sent to the client
+page_files/yui_combo_002.css is queried
+page_files/yui_combo_002.css sent to the client
+page_files/yui_combo_004.js is queried
+page_files/yui_combo_004.js sent to the client
+page_files/yui_combo_002.js is queried
+page_files/yui_combo_002.js sent to the client
+page_files/yui_combo.js is queried
+page_files/yui_combo.js sent to the client
+page_files/all.css is queried
+page_files/all.css sent to the client
+page_files/first.js is queried
+page_files/first.js sent to the client
+page_files/jquery-private.js is queried
+page_files/jquery-private.js sent to the client
+page_files/jquery-3.js is queried
+page_files/jquery-3.js sent to the client
+page_files/yui_combo_006.js is queried
+page_files/yui_combo_006.js sent to the client
+page_files/javascript-static.js is queried
+page_files/javascript-static.js sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/switch_minus.svg is queried
+page_files/switch_minus.svg sent to the client
+page_files/switch_plus.svg is queried
+page_files/switch_plus.svg sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page_files/moodlelogo.png is queried
+page_files/moodlelogo.png sent to the client
+page_files/collect.png is queried
+page_files/collect.png sent to the client
+page_files/require.js is queried
+page_files/require.js sent to the client
+page_files/footer.js is queried
+page_files/footer.js sent to the client
+page_files/block_to_dock.svg is queried
+page_files/block_to_dock.svg sent to the client
+Insecure file inquiry
+Successfully terminating
+Insecure file inquiry
+Successfully terminating
+Insecure file inquiry
+page.html is queried
+page.html sent to the client
+page_files/yui_combo.css is queried
+page_files/yui_combo.css sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/switch_minus.svg is queried
+page_files/switch_minus.svg sent to the client
+page_files/yui_combo_003.css is queried
+page_files/yui_combo_003.css sent to the client
+page_files/yui_combo_005.js is queried
+page_files/yui_combo_005.js sent to the client
+page_files/yui_combo_003.js is queried
+page_files/yui_combo_003.js sent to the client
+page_files/yui_combo_002.css is queried
+page_files/yui_combo_002.css sent to the client
+page_files/yui_combo_004.js is queried
+page_files/yui_combo_004.js sent to the client
+page_files/yui_combo_002.js is queried
+page_files/yui_combo_002.js sent to the client
+page_files/yui_combo.js is queried
+page_files/yui_combo.js sent to the client
+page_files/all.css is queried
+page_files/all.css sent to the client
+page_files/first.js is queried
+page_files/first.js sent to the client
+page_files/jquery-private.js is queried
+page_files/jquery-private.js sent to the client
+page_files/jquery-3.js is queried
+page_files/jquery-3.js sent to the client
+page_files/yui_combo_006.js is queried
+page_files/yui_combo_006.js sent to the client
+page_files/javascript-static.js is queried
+page_files/javascript-static.js sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/switch_plus.svg is queried
+page_files/switch_plus.svg sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page_files/moodlelogo.png is queried
+page_files/moodlelogo.png sent to the client
+page_files/collect.png is queried
+page_files/collect.png sent to the client
+page_files/require.js is queried
+page_files/require.js sent to the client
+page_files/footer.js is queried
+page_files/footer.js sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/switch_minus.svg is queried
+page_files/switch_minus.svg sent to the client
+page_files/switch_plus.svg is queried
+page_files/switch_plus.svg sent to the client
+page_files/block_to_dock.svg is queried
+page_files/block_to_dock.svg sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page_files/moodlelogo.png is queried
+page_files/moodlelogo.png sent to the client
+page_files/collect.png is queried
+page_files/collect.png sent to the client
+Insecure file inquiry
+Successfully terminating
+page.html is queried
+page.html sent to the client
+page_files/yui_combo_003.css is queried
+page_files/yui_combo_003.css sent to the client
+page_files/yui_combo_005.js is queried
+page_files/yui_combo_005.js sent to the client
+page_files/yui_combo.css is queried
+page_files/yui_combo.css sent to the client
+page_files/yui_combo_003.js is queried
+page_files/yui_combo_003.js sent to the client
+page_files/yui_combo_002.css is queried
+page_files/yui_combo_002.css sent to the client
+page_files/yui_combo_004.js is queried
+page_files/yui_combo_004.js sent to the client
+page_files/yui_combo_002.js is queried
+page_files/yui_combo_002.js sent to the client
+page_files/yui_combo.js is queried
+page_files/yui_combo.js sent to the client
+page_files/all.css is queried
+page_files/all.css sent to the client
+page_files/first.js is queried
+page_files/first.js sent to the client
+page_files/jquery-private.js is queried
+page_files/jquery-private.js sent to the client
+page_files/jquery-3.js is queried
+page_files/jquery-3.js sent to the client
+page_files/yui_combo_006.js is queried
+page_files/yui_combo_006.js sent to the client
+page_files/javascript-static.js is queried
+page_files/javascript-static.js sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/switch_minus.svg is queried
+page_files/switch_minus.svg sent to the client
+page_files/switch_plus.svg is queried
+page_files/switch_plus.svg sent to the client
+page_files/collect.png is queried
+page_files/collect.png sent to the client
+page_files/footer.js is queried
+page_files/footer.js sent to the client
+page_files/require.js is queried
+page_files/require.js sent to the client
+page_files/moodlelogo.png is queried
+page_files/moodlelogo.png sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page_files/block_to_dock.svg is queried
+page_files/block_to_dock.svg sent to the client
+Insecure file inquiry
+Successfully terminating
+Insecure file inquiry
+Successfully terminating
+Insecure file inquiry
+page.html is queried
+page.html sent to the client
+page_files/yui_combo_003.css is queried
+page_files/yui_combo_003.css sent to the client
+page_files/yui_combo_005.js is queried
+page_files/yui_combo_005.js sent to the client
+page_files/yui_combo.css is queried
+page_files/yui_combo.css sent to the client
+page_files/yui_combo_003.js is queried
+page_files/yui_combo_003.js sent to the client
+page_files/yui_combo_002.css is queried
+page_files/yui_combo_002.css sent to the client
+page_files/yui_combo_004.js is queried
+page_files/yui_combo_004.js sent to the client
+page_files/yui_combo_002.js is queried
+page_files/yui_combo_002.js sent to the client
+page_files/yui_combo.js is queried
+page_files/yui_combo.js sent to the client
+page_files/all.css is queried
+page_files/all.css sent to the client
+page_files/first.js is queried
+page_files/first.js sent to the client
+page_files/jquery-private.js is queried
+page_files/jquery-private.js sent to the client
+page_files/jquery-3.js is queried
+page_files/jquery-3.js sent to the client
+page_files/yui_combo_006.js is queried
+page_files/yui_combo_006.js sent to the client
+page_files/javascript-static.js is queried
+page_files/javascript-static.js sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/switch_minus.svg is queried
+page_files/switch_minus.svg sent to the client
+page_files/switch_plus.svg is queried
+page_files/switch_plus.svg sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page_files/moodlelogo.png is queried
+page_files/moodlelogo.png sent to the client
+page_files/collect.png is queried
+page_files/collect.png sent to the client
+page_files/require.js is queried
+page_files/require.js sent to the client
+page_files/footer.js is queried
+page_files/footer.js sent to the client
+page_files/block_to_dock.svg is queried
+page_files/block_to_dock.svg sent to the client
+page.html is queried
+page.html sent to the client
+page_files/yui_combo_003.css is queried
+page_files/yui_combo_003.css sent to the client
+page_files/yui_combo_005.js is queried
+page_files/yui_combo_005.js sent to the client
+page_files/yui_combo.css is queried
+page_files/yui_combo.css sent to the client
+page_files/yui_combo_003.js is queried
+page_files/yui_combo_003.js sent to the client
+page_files/yui_combo_002.css is queried
+page_files/yui_combo_002.css sent to the client
+page_files/yui_combo_004.js is queried
+page_files/yui_combo_004.js sent to the client
+page_files/yui_combo_002.js is queried
+page_files/yui_combo_002.js sent to the client
+page_files/yui_combo.js is queried
+page_files/yui_combo.js sent to the client
+page_files/all.css is queried
+page_files/all.css sent to the client
+page_files/first.js is queried
+page_files/first.js sent to the client
+page_files/jquery-private.js is queried
+page_files/jquery-private.js sent to the client
+page_files/jquery-3.js is queried
+page_files/jquery-3.js sent to the client
+page_files/yui_combo_006.js is queried
+page_files/yui_combo_006.js sent to the client
+page_files/javascript-static.js is queried
+page_files/javascript-static.js sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/switch_minus.svg is queried
+page_files/switch_minus.svg sent to the client
+page_files/switch_plus.svg is queried
+page_files/switch_plus.svg sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page_files/moodlelogo.png is queried
+page_files/moodlelogo.png sent to the client
+page_files/require.js is queried
+page_files/require.js sent to the client
+page_files/collect.png is queried
+page_files/collect.png sent to the client
+page_files/footer.js is queried
+page_files/footer.js sent to the client
+page_files/block_to_dock.svg is queried
+page_files/block_to_dock.svg sent to the client
+page.html is queried
+page.html sent to the client
+page_files/yui_combo_003.css is queried
+page_files/yui_combo_003.css sent to the client
+page_files/yui_combo_005.js is queried
+page_files/yui_combo_005.js sent to the client
+page_files/yui_combo.css is queried
+page_files/yui_combo.css sent to the client
+page_files/yui_combo_003.js is queried
+page_files/yui_combo_003.js sent to the client
+page_files/yui_combo_002.css is queried
+page_files/yui_combo_002.css sent to the client
+page_files/yui_combo_004.js is queried
+page_files/yui_combo_004.js sent to the client
+page_files/yui_combo_002.js is queried
+page_files/yui_combo_002.js sent to the client
+page_files/yui_combo.js is queried
+page_files/yui_combo.js sent to the client
+page_files/all.css is queried
+page_files/all.css sent to the client
+page_files/first.js is queried
+page_files/first.js sent to the client
+page_files/jquery-private.js is queried
+page_files/jquery-private.js sent to the client
+page_files/jquery-3.js is queried
+page_files/jquery-3.js sent to the client
+page_files/yui_combo_006.js is queried
+page_files/yui_combo_006.js sent to the client
+page_files/javascript-static.js is queried
+page_files/javascript-static.js sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/switch_minus.svg is queried
+page_files/switch_minus.svg sent to the client
+page_files/switch_plus.svg is queried
+page_files/switch_plus.svg sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page_files/moodlelogo.png is queried
+page_files/moodlelogo.png sent to the client
+page_files/collect.png is queried
+page_files/collect.png sent to the client
+page_files/require.js is queried
+page_files/require.js sent to the client
+page_files/footer.js is queried
+page_files/footer.js sent to the client
+page.html is queried
+page.html sent to the client
+page_files/yui_combo_003.css is queried
+page_files/yui_combo_003.css sent to the client
+page_files/yui_combo_005.js is queried
+page_files/yui_combo_005.js sent to the client
+page_files/yui_combo.css is queried
+page_files/yui_combo.css sent to the client
+page_files/yui_combo_003.js is queried
+page_files/yui_combo_003.js sent to the client
+page_files/yui_combo_002.css is queried
+page_files/yui_combo_002.css sent to the client
+page_files/yui_combo_004.js is queried
+page_files/yui_combo_004.js sent to the client
+page_files/yui_combo_002.js is queried
+page_files/yui_combo_002.js sent to the client
+page_files/yui_combo.js is queried
+page_files/yui_combo.js sent to the client
+page_files/all.css is queried
+page_files/all.css sent to the client
+page_files/first.js is queried
+page_files/first.js sent to the client
+page_files/jquery-private.js is queried
+page_files/jquery-private.js sent to the client
+page_files/jquery-3.js is queried
+page_files/jquery-3.js sent to the client
+page_files/yui_combo_006.js is queried
+page_files/yui_combo_006.js sent to the client
+page_files/javascript-static.js is queried
+page_files/javascript-static.js sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/switch_minus.svg is queried
+page_files/switch_minus.svg sent to the client
+page_files/switch_plus.svg is queried
+page_files/switch_plus.svg sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page_files/moodlelogo.png is queried
+page_files/moodlelogo.png sent to the client
+page_files/collect.png is queried
+page_files/collect.png sent to the client
+page_files/require.js is queried
+page_files/require.js sent to the client
+page_files/footer.js is queried
+page_files/footer.js sent to the client
+page.html is queried
+page.html sent to the client
+page_files/yui_combo_003.css is queried
+page_files/yui_combo_003.css sent to the client
+page_files/yui_combo_005.js is queried
+page_files/yui_combo_005.js sent to the client
+page_files/yui_combo.css is queried
+page_files/yui_combo.css sent to the client
+page_files/yui_combo_003.js is queried
+page_files/yui_combo_003.js sent to the client
+page_files/yui_combo_002.css is queried
+page_files/yui_combo_002.css sent to the client
+page_files/yui_combo_004.js is queried
+page_files/yui_combo_004.js sent to the client
+page_files/yui_combo_002.js is queried
+page_files/yui_combo_002.js sent to the client
+page_files/yui_combo.js is queried
+page_files/yui_combo.js sent to the client
+page_files/all.css is queried
+page_files/all.css sent to the client
+page_files/first.js is queried
+page_files/first.js sent to the client
+page_files/jquery-private.js is queried
+page_files/jquery-private.js sent to the client
+page_files/jquery-3.js is queried
+page_files/jquery-3.js sent to the client
+page_files/yui_combo_006.js is queried
+page_files/yui_combo_006.js sent to the client
+page_files/javascript-static.js is queried
+page_files/javascript-static.js sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/switch_minus.svg is queried
+page_files/switch_minus.svg sent to the client
+page_files/switch_plus.svg is queried
+page_files/switch_plus.svg sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page_files/moodlelogo.png is queried
+page_files/moodlelogo.png sent to the client
+page_files/collect.png is queried
+page_files/collect.png sent to the client
+page_files/require.js is queried
+page_files/require.js sent to the client
+page_files/footer.js is queried
+page_files/footer.js sent to the client
+page.html is queried
+page.html sent to the client
+page_files/yui_combo_003.css is queried
+page_files/yui_combo_003.css sent to the client
+page_files/yui_combo_005.js is queried
+page_files/yui_combo_005.js sent to the client
+page_files/yui_combo.css is queried
+page_files/yui_combo.css sent to the client
+page_files/yui_combo_003.js is queried
+page_files/yui_combo_003.js sent to the client
+page_files/yui_combo_002.css is queried
+page_files/yui_combo_002.css sent to the client
+page_files/yui_combo_004.js is queried
+page_files/yui_combo_004.js sent to the client
+page_files/yui_combo_002.js is queried
+page_files/yui_combo_002.js sent to the client
+page_files/yui_combo.js is queried
+page_files/yui_combo.js sent to the client
+page_files/all.css is queried
+page_files/all.css sent to the client
+page_files/first.js is queried
+page_files/first.js sent to the client
+page_files/jquery-private.js is queried
+page_files/jquery-private.js sent to the client
+page_files/jquery-3.js is queried
+page_files/jquery-3.js sent to the client
+page_files/yui_combo_006.js is queried
+page_files/yui_combo_006.js sent to the client
+page_files/javascript-static.js is queried
+page_files/javascript-static.js sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/switch_minus.svg is queried
+page_files/switch_minus.svg sent to the client
+page_files/switch_plus.svg is queried
+page_files/switch_plus.svg sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page_files/moodlelogo.png is queried
+page_files/moodlelogo.png sent to the client
+page_files/collect.png is queried
+page_files/collect.png sent to the client
+page_files/require.js is queried
+page_files/require.js sent to the client
+page_files/footer.js is queried
+page_files/footer.js sent to the client
+page.html is queried
+page.html sent to the client
+page_files/yui_combo_003.css is queried
+page_files/yui_combo_003.css sent to the client
+page_files/yui_combo_005.js is queried
+page_files/yui_combo_005.js sent to the client
+page_files/yui_combo.css is queried
+page_files/yui_combo.css sent to the client
+page_files/yui_combo_003.js is queried
+page_files/yui_combo_003.js sent to the client
+page_files/yui_combo_002.css is queried
+page_files/yui_combo_002.css sent to the client
+page_files/yui_combo_004.js is queried
+page_files/yui_combo_004.js sent to the client
+page_files/yui_combo_002.js is queried
+page_files/yui_combo_002.js sent to the client
+page_files/yui_combo.js is queried
+page_files/yui_combo.js sent to the client
+page_files/all.css is queried
+page_files/all.css sent to the client
+page_files/first.js is queried
+page_files/first.js sent to the client
+page_files/jquery-private.js is queried
+page_files/jquery-private.js sent to the client
+page_files/jquery-3.js is queried
+page_files/jquery-3.js sent to the client
+page_files/yui_combo_006.js is queried
+page_files/yui_combo_006.js sent to the client
+page_files/javascript-static.js is queried
+page_files/javascript-static.js sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/switch_minus.svg is queried
+page_files/switch_minus.svg sent to the client
+page_files/switch_plus.svg is queried
+page_files/switch_plus.svg sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page_files/moodlelogo.png is queried
+page_files/moodlelogo.png sent to the client
+page_files/collect.png is queried
+page_files/collect.png sent to the client
+page_files/require.js is queried
+page_files/require.js sent to the client
+page_files/footer.js is queried
+page_files/footer.js sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/switch_minus.svg is queried
+page_files/switch_minus.svg sent to the client
+page_files/switch_plus.svg is queried
+page_files/switch_plus.svg sent to the client
+page_files/block_to_dock.svg is queried
+page_files/block_to_dock.svg sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page_files/moodlelogo.png is queried
+page_files/moodlelogo.png sent to the client
+page_files/collect.png is queried
+page_files/collect.png sent to the client
+page.html is queried
+page.html sent to the client
+page_files/yui_combo_003.css is queried
+page_files/yui_combo_003.css sent to the client
+page_files/yui_combo_005.js is queried
+page_files/yui_combo_005.js sent to the client
+page_files/yui_combo.css is queried
+page_files/yui_combo.css sent to the client
+page_files/yui_combo_003.js is queried
+page_files/yui_combo_003.js sent to the client
+page_files/yui_combo_002.css is queried
+page_files/yui_combo_002.css sent to the client
+page_files/yui_combo_004.js is queried
+page_files/yui_combo_004.js sent to the client
+page_files/yui_combo_002.js is queried
+page_files/yui_combo_002.js sent to the client
+page_files/yui_combo.js is queried
+page_files/yui_combo.js sent to the client
+page_files/all.css is queried
+page_files/all.css sent to the client
+page_files/first.js is queried
+page_files/first.js sent to the client
+page_files/jquery-private.js is queried
+page_files/jquery-private.js sent to the client
+page_files/jquery-3.js is queried
+page_files/jquery-3.js sent to the client
+page_files/yui_combo_006.js is queried
+page_files/yui_combo_006.js sent to the client
+page_files/javascript-static.js is queried
+page_files/javascript-static.js sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/switch_minus.svg is queried
+page_files/switch_minus.svg sent to the client
+page_files/switch_plus.svg is queried
+page_files/switch_plus.svg sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page_files/moodlelogo.png is queried
+page_files/moodlelogo.png sent to the client
+page_files/collect.png is queried
+page_files/collect.png sent to the client
+page_files/require.js is queried
+page_files/require.js sent to the client
+page_files/footer.js is queried
+page_files/footer.js sent to the client
+page.html is queried
+page.html sent to the client
+page_files/yui_combo_003.css is queried
+page_files/yui_combo_003.css sent to the client
+page_files/yui_combo_005.js is queried
+page_files/yui_combo_005.js sent to the client
+page_files/yui_combo.css is queried
+page_files/yui_combo.css sent to the client
+page_files/yui_combo_003.js is queried
+page_files/yui_combo_003.js sent to the client
+page_files/yui_combo_002.css is queried
+page_files/yui_combo_002.css sent to the client
+page_files/yui_combo_004.js is queried
+page_files/yui_combo_004.js sent to the client
+page_files/yui_combo_002.js is queried
+page_files/yui_combo_002.js sent to the client
+page_files/yui_combo.js is queried
+page_files/yui_combo.js sent to the client
+page_files/all.css is queried
+page_files/all.css sent to the client
+page_files/first.js is queried
+page_files/first.js sent to the client
+page_files/jquery-private.js is queried
+page_files/jquery-private.js sent to the client
+page_files/jquery-3.js is queried
+page_files/jquery-3.js sent to the client
+page_files/yui_combo_006.js is queried
+page_files/yui_combo_006.js sent to the client
+page_files/javascript-static.js is queried
+page_files/javascript-static.js sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/switch_minus.svg is queried
+page_files/switch_minus.svg sent to the client
+page_files/switch_plus.svg is queried
+page_files/switch_plus.svg sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page_files/moodlelogo.png is queried
+page_files/moodlelogo.png sent to the client
+page_files/collect.png is queried
+page_files/collect.png sent to the client
+page_files/require.js is queried
+page_files/require.js sent to the client
+page_files/footer.js is queried
+page_files/footer.js sent to the client
+page.html is queried
+page.html sent to the client
+page_files/yui_combo_003.css is queried
+page_files/yui_combo_003.css sent to the client
+page_files/yui_combo_005.js is queried
+page_files/yui_combo_005.js sent to the client
+page_files/yui_combo.css is queried
+page_files/yui_combo.css sent to the client
+page_files/yui_combo_003.js is queried
+page_files/yui_combo_003.js sent to the client
+page_files/yui_combo_002.css is queried
+page_files/yui_combo_002.css sent to the client
+page_files/yui_combo_004.js is queried
+page_files/yui_combo_004.js sent to the client
+page_files/yui_combo_002.js is queried
+page_files/yui_combo_002.js sent to the client
+page_files/yui_combo.js is queried
+page_files/yui_combo.js sent to the client
+page_files/all.css is queried
+page_files/all.css sent to the client
+page_files/first.js is queried
+page_files/first.js sent to the client
+page_files/jquery-private.js is queried
+page_files/jquery-private.js sent to the client
+page_files/jquery-3.js is queried
+page_files/jquery-3.js sent to the client
+page_files/yui_combo_006.js is queried
+page_files/yui_combo_006.js sent to the client
+page_files/javascript-static.js is queried
+page_files/javascript-static.js sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/switch_minus.svg is queried
+page_files/switch_minus.svg sent to the client
+page_files/switch_plus.svg is queried
+page_files/switch_plus.svg sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page_files/moodlelogo.png is queried
+page_files/moodlelogo.png sent to the client
+page_files/collect.png is queried
+page_files/collect.png sent to the client
+page_files/require.js is queried
+page_files/require.js sent to the client
+page_files/footer.js is queried
+page_files/footer.js sent to the client
+page.html is queried
+page.html sent to the client
+page_files/yui_combo_003.css is queried
+page_files/yui_combo_003.css sent to the client
+page_files/yui_combo_005.js is queried
+page_files/yui_combo_005.js sent to the client
+page_files/yui_combo.css is queried
+page_files/yui_combo.css sent to the client
+page_files/yui_combo_003.js is queried
+page_files/yui_combo_003.js sent to the client
+page_files/yui_combo_002.css is queried
+page_files/yui_combo_002.css sent to the client
+page_files/yui_combo_004.js is queried
+page_files/yui_combo_004.js sent to the client
+page_files/yui_combo_002.js is queried
+page_files/yui_combo_002.js sent to the client
+page_files/yui_combo.js is queried
+page_files/yui_combo.js sent to the client
+page_files/all.css is queried
+page_files/all.css sent to the client
+page_files/first.js is queried
+page_files/first.js sent to the client
+page_files/jquery-private.js is queried
+page_files/jquery-private.js sent to the client
+page_files/jquery-3.js is queried
+page_files/jquery-3.js sent to the client
+page_files/yui_combo_006.js is queried
+page_files/yui_combo_006.js sent to the client
+page_files/javascript-static.js is queried
+page_files/javascript-static.js sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/switch_minus.svg is queried
+page_files/switch_minus.svg sent to the client
+page_files/switch_plus.svg is queried
+page_files/switch_plus.svg sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page_files/moodlelogo.png is queried
+page_files/moodlelogo.png sent to the client
+page_files/collect.png is queried
+page_files/collect.png sent to the client
+page_files/require.js is queried
+page_files/require.js sent to the client
+page_files/footer.js is queried
+page_files/footer.js sent to the client
+page.html is queried
+page.html sent to the client
+page.html is queried
+page.html sent to the client
+page_files/yui_combo_003.css is queried
+page_files/yui_combo_003.css sent to the client
+page_files/yui_combo_005.js is queried
+page_files/yui_combo_005.js sent to the client
+page_files/yui_combo.css is queried
+page_files/yui_combo.css sent to the client
+page_files/yui_combo_003.js is queried
+page_files/yui_combo_003.js sent to the client
+page_files/yui_combo_002.css is queried
+page_files/yui_combo_002.css sent to the client
+page_files/yui_combo_004.js is queried
+page_files/yui_combo_004.js sent to the client
+page_files/yui_combo_002.js is queried
+page_files/yui_combo_002.js sent to the client
+page_files/yui_combo.js is queried
+page_files/yui_combo.js sent to the client
+page_files/all.css is queried
+page_files/all.css sent to the client
+page_files/first.js is queried
+page_files/first.js sent to the client
+page_files/jquery-private.js is queried
+page_files/jquery-private.js sent to the client
+page_files/jquery-3.js is queried
+page_files/jquery-3.js sent to the client
+page_files/yui_combo_006.js is queried
+page_files/yui_combo_006.js sent to the client
+page_files/javascript-static.js is queried
+page_files/javascript-static.js sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/switch_minus.svg is queried
+page_files/switch_minus.svg sent to the client
+page_files/switch_plus.svg is queried
+page_files/switch_plus.svg sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page_files/moodlelogo.png is queried
+page_files/moodlelogo.png sent to the client
+page_files/collect.png is queried
+page_files/collect.png sent to the client
+page_files/require.js is queried
+page_files/require.js sent to the client
+page_files/footer.js is queried
+page_files/footer.js sent to the client
+page.html is queried
+page.html sent to the client
+page_files/yui_combo_003.css is queried
+page_files/yui_combo_003.css sent to the client
+page_files/yui_combo_005.js is queried
+page_files/yui_combo_005.js sent to the client
+page_files/yui_combo.css is queried
+page_files/yui_combo.css sent to the client
+page_files/yui_combo_003.js is queried
+page_files/yui_combo_003.js sent to the client
+page_files/yui_combo_002.css is queried
+page_files/yui_combo_002.css sent to the client
+page_files/yui_combo_004.js is queried
+page_files/yui_combo_004.js sent to the client
+page_files/yui_combo_002.js is queried
+page_files/yui_combo_002.js sent to the client
+page_files/yui_combo.js is queried
+page_files/yui_combo.js sent to the client
+page_files/all.css is queried
+page_files/all.css sent to the client
+page_files/first.js is queried
+page_files/first.js sent to the client
+page_files/jquery-private.js is queried
+page_files/jquery-private.js sent to the client
+page_files/jquery-3.js is queried
+page_files/jquery-3.js sent to the client
+page_files/yui_combo_006.js is queried
+page_files/yui_combo_006.js sent to the client
+page_files/javascript-static.js is queried
+page_files/javascript-static.js sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/switch_minus.svg is queried
+page_files/switch_minus.svg sent to the client
+page_files/switch_plus.svg is queried
+page_files/switch_plus.svg sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page_files/moodlelogo.png is queried
+page_files/moodlelogo.png sent to the client
+page_files/collect.png is queried
+page_files/collect.png sent to the client
+page_files/require.js is queried
+page_files/require.js sent to the client
+page_files/footer.js is queried
+page_files/footer.js sent to the client
+page.html is queried
+page.html sent to the client
+page_files/yui_combo_003.css is queried
+page_files/yui_combo_003.css sent to the client
+page_files/yui_combo_005.js is queried
+page_files/yui_combo_005.js sent to the client
+page_files/yui_combo.css is queried
+page_files/yui_combo.css sent to the client
+page_files/yui_combo_003.js is queried
+page_files/yui_combo_003.js sent to the client
+page_files/yui_combo_002.css is queried
+page_files/yui_combo_002.css sent to the client
+page_files/yui_combo_004.js is queried
+page_files/yui_combo_004.js sent to the client
+page_files/yui_combo_002.js is queried
+page_files/yui_combo_002.js sent to the client
+page_files/yui_combo.js is queried
+page_files/yui_combo.js sent to the client
+page_files/all.css is queried
+page_files/all.css sent to the client
+page_files/first.js is queried
+page_files/first.js sent to the client
+page_files/jquery-private.js is queried
+page_files/jquery-private.js sent to the client
+page_files/jquery-3.js is queried
+page_files/jquery-3.js sent to the client
+page_files/yui_combo_006.js is queried
+page_files/yui_combo_006.js sent to the client
+page_files/javascript-static.js is queried
+page_files/javascript-static.js sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/switch_minus.svg is queried
+page_files/switch_minus.svg sent to the client
+page_files/switch_plus.svg is queried
+page_files/switch_plus.svg sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page_files/moodlelogo.png is queried
+page_files/moodlelogo.png sent to the client
+page_files/collect.png is queried
+page_files/collect.png sent to the client
+page_files/require.js is queried
+page_files/require.js sent to the client
+page_files/footer.js is queried
+page_files/footer.js sent to the client
+page.html is queried
+page.html sent to the client
+page_files/yui_combo_003.css is queried
+page_files/yui_combo_003.css sent to the client
+page_files/yui_combo_005.js is queried
+page_files/yui_combo_005.js sent to the client
+page_files/yui_combo.css is queried
+page_files/yui_combo.css sent to the client
+page_files/yui_combo_003.js is queried
+page_files/yui_combo_003.js sent to the client
+page_files/yui_combo_002.css is queried
+page_files/yui_combo_002.css sent to the client
+page_files/yui_combo_004.js is queried
+page_files/yui_combo_004.js sent to the client
+page_files/yui_combo_002.js is queried
+page_files/yui_combo_002.js sent to the client
+page_files/yui_combo.js is queried
+page_files/yui_combo.js sent to the client
+page_files/all.css is queried
+page_files/all.css sent to the client
+page_files/first.js is queried
+page_files/first.js sent to the client
+page_files/jquery-private.js is queried
+page_files/jquery-private.js sent to the client
+page_files/jquery-3.js is queried
+page_files/jquery-3.js sent to the client
+page_files/yui_combo_006.js is queried
+page_files/yui_combo_006.js sent to the client
+page_files/javascript-static.js is queried
+page_files/javascript-static.js sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/switch_minus.svg is queried
+page_files/switch_minus.svg sent to the client
+page_files/switch_plus.svg is queried
+page_files/switch_plus.svg sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page_files/moodlelogo.png is queried
+page_files/moodlelogo.png sent to the client
+page_files/collect.png is queried
+page_files/collect.png sent to the client
+page_files/require.js is queried
+page_files/require.js sent to the client
+page_files/footer.js is queried
+page_files/footer.js sent to the client
+page.html is queried
+page.html sent to the client
+page.html is queried
+page.html sent to the client
+page_files/yui_combo_003.css is queried
+page_files/yui_combo_003.css sent to the client
+page_files/yui_combo_005.js is queried
+page_files/yui_combo_005.js sent to the client
+page_files/yui_combo.css is queried
+page_files/yui_combo.css sent to the client
+page_files/yui_combo_003.js is queried
+page_files/yui_combo_003.js sent to the client
+page_files/yui_combo_002.css is queried
+page_files/yui_combo_002.css sent to the client
+page_files/yui_combo_004.js is queried
+page_files/yui_combo_004.js sent to the client
+page_files/yui_combo_002.js is queried
+page_files/yui_combo_002.js sent to the client
+page_files/yui_combo.js is queried
+page_files/yui_combo.js sent to the client
+page_files/all.css is queried
+page_files/all.css sent to the client
+page_files/first.js is queried
+page_files/first.js sent to the client
+page_files/jquery-private.js is queried
+page_files/jquery-private.js sent to the client
+page_files/jquery-3.js is queried
+page_files/jquery-3.js sent to the client
+page_files/yui_combo_006.js is queried
+page_files/yui_combo_006.js sent to the client
+page_files/javascript-static.js is queried
+page_files/javascript-static.js sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/switch_minus.svg is queried
+page_files/switch_minus.svg sent to the client
+page_files/switch_plus.svg is queried
+page_files/switch_plus.svg sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page_files/moodlelogo.png is queried
+page_files/moodlelogo.png sent to the client
+page_files/collect.png is queried
+page_files/collect.png sent to the client
+page_files/require.js is queried
+page_files/require.js sent to the client
+page_files/footer.js is queried
+page_files/footer.js sent to the client
+page.html is queried
+page.html sent to the client
+page_files/yui_combo_003.css is queried
+page_files/yui_combo_003.css sent to the client
+page_files/yui_combo_005.js is queried
+page_files/yui_combo_005.js sent to the client
+page_files/yui_combo.css is queried
+page_files/yui_combo.css sent to the client
+page_files/yui_combo_003.js is queried
+page_files/yui_combo_003.js sent to the client
+page_files/yui_combo_002.css is queried
+page_files/yui_combo_002.css sent to the client
+page_files/yui_combo_004.js is queried
+page_files/yui_combo_004.js sent to the client
+page_files/yui_combo_002.js is queried
+page_files/yui_combo_002.js sent to the client
+page_files/yui_combo.js is queried
+page_files/yui_combo.js sent to the client
+page_files/all.css is queried
+page_files/all.css sent to the client
+page_files/first.js is queried
+page_files/first.js sent to the client
+page_files/jquery-private.js is queried
+page_files/jquery-private.js sent to the client
+page_files/jquery-3.js is queried
+page_files/jquery-3.js sent to the client
+page_files/yui_combo_006.js is queried
+page_files/yui_combo_006.js sent to the client
+page_files/javascript-static.js is queried
+page_files/javascript-static.js sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/switch_minus.svg is queried
+page_files/switch_minus.svg sent to the client
+page_files/switch_plus.svg is queried
+page_files/switch_plus.svg sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page_files/moodlelogo.png is queried
+page_files/moodlelogo.png sent to the client
+page_files/collect.png is queried
+page_files/collect.png sent to the client
+page_files/require.js is queried
+page_files/require.js sent to the client
+page_files/footer.js is queried
+page_files/footer.js sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/switch_minus.svg is queried
+page_files/switch_minus.svg sent to the client
+page_files/switch_plus.svg is queried
+page_files/switch_plus.svg sent to the client
+page_files/block_to_dock.svg is queried
+page_files/block_to_dock.svg sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page_files/moodlelogo.png is queried
+page_files/moodlelogo.png sent to the client
+page_files/collect.png is queried
+page_files/collect.png sent to the client
+page.html is queried
+page.html sent to the client
+page_files/yui_combo_003.css is queried
+page_files/yui_combo_003.css sent to the client
+page_files/yui_combo_005.js is queried
+page_files/yui_combo_005.js sent to the client
+page_files/yui_combo.css is queried
+page_files/yui_combo.css sent to the client
+page_files/yui_combo_003.js is queried
+page_files/yui_combo_003.js sent to the client
+page_files/yui_combo_002.css is queried
+page_files/yui_combo_002.css sent to the client
+page_files/yui_combo_004.js is queried
+page_files/yui_combo_004.js sent to the client
+page_files/yui_combo_002.js is queried
+page_files/yui_combo_002.js sent to the client
+page_files/yui_combo.js is queried
+page_files/yui_combo.js sent to the client
+page_files/all.css is queried
+page_files/all.css sent to the client
+page_files/first.js is queried
+page_files/first.js sent to the client
+page_files/jquery-private.js is queried
+page_files/jquery-private.js sent to the client
+page_files/jquery-3.js is queried
+page_files/jquery-3.js sent to the client
+page_files/yui_combo_006.js is queried
+page_files/yui_combo_006.js sent to the client
+page_files/javascript-static.js is queried
+page_files/javascript-static.js sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/switch_minus.svg is queried
+page_files/switch_minus.svg sent to the client
+page_files/switch_plus.svg is queried
+page_files/switch_plus.svg sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page_files/moodlelogo.png is queried
+page_files/moodlelogo.png sent to the client
+page_files/collect.png is queried
+page_files/collect.png sent to the client
+page_files/require.js is queried
+page_files/require.js sent to the client
+page_files/footer.js is queried
+page_files/footer.js sent to the client
+page.html is queried
+page.html sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/switch_minus.svg is queried
+page_files/switch_minus.svg sent to the client
+page_files/switch_plus.svg is queried
+page_files/switch_plus.svg sent to the client
+page_files/block_to_dock.svg is queried
+page_files/block_to_dock.svg sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page_files/moodlelogo.png is queried
+page_files/moodlelogo.png sent to the client
+page_files/collect.png is queried
+page_files/collect.png sent to the client
+page.html is queried
+page.html sent to the client
+page_files/yui_combo_003.css is queried
+page_files/yui_combo_003.css sent to the client
+page_files/yui_combo_005.js is queried
+page_files/yui_combo_005.js sent to the client
+page_files/yui_combo.css is queried
+page_files/yui_combo.css sent to the client
+page_files/yui_combo_003.js is queried
+page_files/yui_combo_003.js sent to the client
+page_files/yui_combo_002.css is queried
+page_files/yui_combo_002.css sent to the client
+page_files/yui_combo_004.js is queried
+page_files/yui_combo_004.js sent to the client
+page_files/yui_combo_002.js is queried
+page_files/yui_combo_002.js sent to the client
+page_files/yui_combo.js is queried
+page_files/yui_combo.js sent to the client
+page_files/all.css is queried
+page_files/all.css sent to the client
+page_files/first.js is queried
+page_files/first.js sent to the client
+page_files/jquery-private.js is queried
+page_files/jquery-private.js sent to the client
+page_files/jquery-3.js is queried
+page_files/jquery-3.js sent to the client
+page_files/yui_combo_006.js is queried
+page_files/yui_combo_006.js sent to the client
+page_files/javascript-static.js is queried
+page_files/javascript-static.js sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/switch_minus.svg is queried
+page_files/switch_minus.svg sent to the client
+page_files/switch_plus.svg is queried
+page_files/switch_plus.svg sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page_files/moodlelogo.png is queried
+page_files/moodlelogo.png sent to the client
+page_files/collect.png is queried
+page_files/collect.png sent to the client
+page_files/require.js is queried
+page_files/require.js sent to the client
+page_files/footer.js is queried
+page_files/footer.js sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/switch_minus.svg is queried
+page_files/switch_minus.svg sent to the client
+page_files/switch_plus.svg is queried
+page_files/switch_plus.svg sent to the client
+page_files/block_to_dock.svg is queried
+page_files/block_to_dock.svg sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page_files/moodlelogo.png is queried
+page_files/moodlelogo.png sent to the client
+page_files/collect.png is queried
+page_files/collect.png sent to the client
+Successfully terminating
+page.html is queried
+page.html sent to the client
+page_files/yui_combo_003.css is queried
+page_files/yui_combo_003.css sent to the client
+page_files/yui_combo_005.js is queried
+page_files/yui_combo_005.js sent to the client
+page_files/yui_combo.css is queried
+page_files/yui_combo.css sent to the client
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+page.html is queried
+page.html sent to the client
+page_files/yui_combo_003.css is queried
+page_files/yui_combo_003.css sent to the client
+page_files/yui_combo_005.js is queried
+page_files/yui_combo_005.js sent to the client
+page_files/yui_combo.css is queried
+page_files/yui_combo.css sent to the client
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+All threads are busy
+
+Successfully terminating
+page.html is queried
+page.html sent to the client
+page_files/yui_combo_003.css is queried
+page_files/yui_combo_003.css sent to the client
+page_files/yui_combo_005.js is queried
+page_files/yui_combo_005.js sent to the client
+page_files/yui_combo.css is queried
+page_files/yui_combo.css sent to the client
+page_files/yui_combo_003.js is queried
+page_files/yui_combo_003.js sent to the client
+page_files/yui_combo_002.css is queried
+page_files/yui_combo_002.css sent to the client
+page_files/yui_combo_004.js is queried
+page_files/yui_combo_004.js sent to the client
+page_files/yui_combo_002.js is queried
+page_files/yui_combo_002.js sent to the client
+page_files/yui_combo.js is queried
+page_files/yui_combo.js sent to the client
+page_files/all.css is queried
+page_files/all.css sent to the client
+page_files/first.js is queried
+page_files/first.js sent to the client
+page_files/jquery-private.js is queried
+page_files/jquery-private.js sent to the client
+page_files/jquery-3.js is queried
+page_files/jquery-3.js sent to the client
+page_files/yui_combo_006.js is queried
+page_files/yui_combo_006.js sent to the client
+page_files/javascript-static.js is queried
+page_files/javascript-static.js sent to the client
+page_files/icon_002.svg is queried
+page_files/icon_002.svg sent to the client
+page_files/pdf-24.png is queried
+page_files/pdf-24.png sent to the client
+page_files/document-24.png is queried
+page_files/document-24.png sent to the client
+page_files/icon.svg is queried
+page_files/icon.svg sent to the client
+page_files/icon_004.svg is queried
+page_files/icon_004.svg sent to the client
+page_files/switch_minus.svg is queried
+page_files/switch_minus.svg sent to the client
+page_files/switch_plus.svg is queried
+page_files/switch_plus.svg sent to the client
+page_files/icon_003.svg is queried
+page_files/icon_003.svg sent to the client
+page_files/moodlelogo.png is queried
+page_files/moodlelogo.png sent to the client
+page_files/collect.png is queried
+page_files/collect.png sent to the client
+page_files/require.js is queried
+page_files/require.js sent to the client
+page_files/footer.js is queried
+page_files/footer.js sent to the client
+page_files/block_to_dock.svg is queried
+page_files/block_to_dock.svg sent to the client
+Insecure file inquiry
+Successfully terminating
